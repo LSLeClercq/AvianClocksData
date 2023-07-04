@@ -1,0 +1,54 @@
+Species ,Clock,Adcyap,Code,Sample (N),Genus,Species,Family,Superfamily,Parvorder,Order
+American redstart,Yes,Yes,AR,27,Setophaga,ruticilla,Parulidae,Emberizoidea,Passerida,Passeriformes
+Barn swallow,Yes,No,BS,64,Hirundo,rustica,Hirundinidae,Locustelloidea,Sylviida,Passeriformes 
+Barolo shearwater,Yes,No,BaS,15,Puffinus,baroli,Procellariidae,-,-,Procellariiformes
+Bar-tailed godwit,Yes,No,BTG,135,Limosa  ,lapponica,Scolopacidae,-,-,Charadriiformes
+Blackcap,No,Yes,BC,936,Sylvia,atricapilla,Sylviidae,Sylvioidea,Sylviida,Passeriformes 
+Blackpoll warbler,Yes,Yes,BW,72,Setophaga,striata,Parulidae,Emberizoidea,Passerida,Passeriformes 
+Blue tit,Yes,No,BT,950,Cyanistes,caeruleus,Paridae,Paroidea,Sylviida,Passeriformes 
+Boyd's shearwater,Yes,No,BoS,25,Puffinus,boydi,Procellariidae,-,-,Procellariiformes
+Collared flycatcher,Yes,Yes,CF,406,Ficedula,albicollis,Muscicapidae,Muscicapoidea,Muscicapida,Passeriformes 
+Collared plover,No,Yes,CP,14,Charadrius,collaris,Charadriidae,-,-,Charadriiformes
+Common buzzard,No,Yes,CB,974,Buteo,buteo,Accipitridae,-,-,Accipitriformes
+Common chiffchaff,Yes,No,CC,55,Phylloscopus,collybita,Phylloscopidae,Aegithaloidea,Sylviida,Passeriformes
+Common nightingale,Yes,Yes,CN,150,Luscinia,megarhynchos,Muscicapidae,Muscicapoidea,Muscicapida,Passeriformes 
+Common whitethroat,Yes,Yes,CW,31,Curruca,communis,Sylviidae,Sylvioidea,Sylviida,Passeriformes
+Common yellowthroat,Yes,Yes,CY,31,Geothlypis,trichas,Parulidae,Emberizoidea,Passerida,Passeriformes
+Dark-eyed junco,Yes,Yes,DEJ,36,Junco,hyemalis,Passerellidae,Emberizoidea,Passerida,Passeriformes 
+Eastern sub-alpine warbler,Yes,Yes,ESW,34,Curruca,cantillans,Sylviidae,Sylvioidea,Sylviida,Passeriformes
+Eurasian blackbird,Yes,Yes,EB,792,Turdus,merula,Turdidae,Muscicapoidea,Muscicapida,Passeriformes 
+Eurasian Golden Oriole,Yes,Yes,EGO,30,Oriolus,oriolus,Oriolidae,Corvoidea,Corvida,Passeriformes
+Eurasian Hoopoe,Yes,Yes,EH,26,Upupa,epops,Upupidae,-,-,Bucerotiformes
+Eurasian reed warbler,Yes,Yes,ERW,24,Acrocephalus,scirpaceus,Acrocephalidae,Locustelloidea,Sylviida,Passeriformes
+Eurasian Wryneck,Yes,Yes,Wry,31,Jynx,torquilla,Picidae,-,-,Piciformes
+European bee-eater,Yes,Yes,EBE,36,Merops,apiaster,Meropidae,-,-,Coraciiformes
+European Nightjar,Yes,Yes,EN,39,Caprimulgus,europaeus,Caprimulgidae,-,-,Caprimulgiformes
+European pied flycatcher,Yes,Yes,EPF,505,Ficedula,hypoleuca,Muscicapidae,Muscicapoidea,Muscicapida,Passeriformes 
+European turtle dove,Yes,Yes,ETD,29,Streptopelia,turtur,Columbidae,-,-,Columbiformes
+Garden warbler,Yes,Yes,GW,31,Sylvia,borin,Sylviidae,Sylvioidea,Sylviida,Passeriformes
+Great shearwater,Yes,No,GS,25,Ardenna,gravis,Procellariidae,-,-,Procellariiformes
+Great reed warbler,Yes,Yes,GRW,21,Acrocephalus,arundinaceus,Acrocephalidae,Locustelloidea,Sylviida,Passeriformes
+Hermit thrush,Yes,Yes,HT,30,Catharus,guttatus,Turdidae,Muscicapoidea,Muscicapida,Passeriformes
+Icterine warbler,Yes,Yes,IW,29,Hippolais,icterina,Acrocephalidae,Locustelloidea,Sylviida,Passeriformes
+Magnolia warbler,Yes,Yes,MW,35,Setophaga,magnolia,Parulidae,Emberizoidea,Passerida,Passeriformes
+Manx shearwater,Yes,No,MS,23,Puffinus,puffinus,Procellariidae,-,-,Procellariiformes
+Northern wheatear,Yes,Yes,NW,30,Oenanthe,oenanthe,Muscicapidae,Muscicapoidea,Muscicapida,Passeriformes
+Painted bunting,Yes,Yes,PB,60,Passerina,ciris,Cardinalidae,Emberizoidea,Passerida,Passeriformes 
+Sedge warbler,Yes,Yes,SW,30,Acrocephalus,schoenobaenus,Acrocephalidae,Locustelloidea,Sylviida,Passeriformes
+Semipalmated plover,No,Yes,SP,13,Charadrius ,semipalmatus,Charadriidae,-,-,Charadriiformes
+Semipalmated sandpiper,No,Yes,SS,14,Calidris ,pusilla,Scolopacidae,-,-,Charadriiformes
+Spotted flycatcher,Yes,Yes,SF,29,Muscicapa,striata,Muscicapidae,Muscicapoidea,Muscicapida,Passeriformes
+Spotted sandpiper,No,Yes,SpS,12,Actitis ,macularius,Scolopacidae,-,-,Charadriiformes
+Swainson's thrush,Yes,Yes,ST,29,Catharus,ustulatus,Turdidae,Muscicapoidea,Muscicapida,Passeriformes 
+Tree pipit,Yes,Yes,TP,153,Anthus,trivialis,Motacillidae,Ploceoidea,Passerida,Passeriformes 
+Tree swallow,Yes,Yes,TS,921,Tachycineta,bicolor,Hirundinidae,Locustelloidea,Sylviida,Passeriformes 
+True/Common redstarts,Yes,Yes,TR,47,Phoenicurus,phoenicurus,Muscicapidae,Muscicapoidea,Muscicapida,Passeriformes
+Whinchat,Yes,Yes,WCh,208,Saxicola,rubetra,Muscicapidae,Muscicapoidea,Muscicapida,Passeriformes 
+White-throated sparrow,Yes,Yes,WTS,32,Zonotrichia,albicollis,Passerellidae,Emberizoidea,Passerida,Passeriformes
+Willow wabler,Yes,Yes,WilW,497,Phylloscopus,trochilus,Phylloscopidae,Aegithaloidea,Sylviida,Passeriformes 
+Wilson's warbler,Yes,Yes,WilsW,105,Cardellina,pusilla,Parulidae,Emberizoidea,Passerida,Passeriformes 
+Wood warbler,Yes,Yes,WodW,30,Phylloscopus,sibilatrix,Phylloscopidae,Aegithaloidea,Sylviida,Passeriformes
+Woodchat shrike,Yes,Yes,WcS,20,Lanius,senator,Laniidae,Corvoidea,Corvida,Passeriformes
+Yelkouan shearwater,Yes,No,YS,15,Puffinus,yelkouan,Procellariidae,-,-,Procellariiformes
+Yellow-legged gull,Yes,Yes,YLG,109,Larus,michahellis,Laridae,-,-,Charadriiformes
+Count,46,43,37,8015,,,,,,

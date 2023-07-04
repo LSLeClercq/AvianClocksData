@@ -1,0 +1,73 @@
+Species,Sample ID,Clock 1,Clock 2,Sum,Mean ,Adcyap1,Adcyap2,Sum,Mean
+Blackpoll warbler,2740-82912,8,8,16,8,159,163,322,161
+Blackpoll warbler,2740-82914,6,6,12,6,159,163,322,161
+Blackpoll warbler,2740-82911,6,6,12,6,159,159,318,159
+Blackpoll warbler,2740-82903,5,7,12,6,161,161,322,161
+Blackpoll warbler,2740-82921,6,6,12,6,157,159,316,158
+Blackpoll warbler,CH1709,7,7,14,7,159,159,318,159
+Blackpoll warbler,CH1717,6,7,13,6.5,157,159,316,158
+Blackpoll warbler,CH1703,5,6,11,5.5,157,167,324,162
+Blackpoll warbler,CH1701,6,7,13,6.5,163,163,326,163
+Blackpoll warbler,CH1702,8,8,16,8,161,163,324,162
+Blackpoll warbler,CH1708,7,7,14,7,159,159,318,159
+Blackpoll warbler,CH1710,5,6,11,5.5,155,161,316,158
+Blackpoll warbler,CH1713,6,7,13,6.5,159,159,318,159
+Blackpoll warbler,YK1702,7,8,15,7.5,157,157,314,157
+Blackpoll warbler,YK1703 ,6,8,14,7,161,161,322,161
+Blackpoll warbler,YK1704 ,6,6,12,6,157,159,316,158
+Blackpoll warbler,YK1701,6,8,14,7,157,159,316,158
+Blackpoll warbler,9262,5,6,11,5.5,161,163,324,162
+Blackpoll warbler,2740-82925,6,7,13,6.5,164,165,329,164.5
+Blackpoll warbler,2810-56502,5,8,13,6.5,159,159,318,159
+Blackpoll warbler,2810-56505,7,7,14,7,157,163,320,160
+Blackpoll warbler,2810-56506,6,8,14,7,157,159,316,158
+Blackpoll warbler,2810-56507,8,8,16,8,157,159,316,158
+Blackpoll warbler,CH1704,5,7,12,6,159,159,318,159
+Blackpoll warbler,CH1705,8,8,16,8,157,159,316,158
+Blackpoll warbler,CH1707,7,8,15,7.5,157,161,318,159
+Blackpoll warbler,CH1711,6,7,13,6.5,167,169,336,168
+Blackpoll warbler,CH1712,6,6,12,6,157,159,316,158
+Blackpoll warbler,CH1714,6,8,14,7,157,166,323,161.5
+Blackpoll warbler,CH1715,6,6,12,6,159,161,320,160
+Blackpoll warbler,CH1716,6,7,13,6.5,159,165,324,162
+Blackpoll warbler,CH1718,6,7,13,6.5,155,159,314,157
+Blackpoll warbler,D. S. 20089,5,6,11,5.5,159,159,318,159
+Blackpoll warbler,D. S. 7394,6,8,14,7,155,159,314,157
+Blackpoll warbler,D. Str 20508,5,6,11,5.5,159,161,320,160
+Blackpoll warbler,LAB1TB,6,8,14,7,159,161,320,160
+Blackpoll warbler,LAB2TB,6,8,14,7,157,161,318,159
+Blackpoll warbler,LAB3TB,7,8,15,7.5,164,167,331,165.5
+Blackpoll warbler,LAB4TB,5,8,13,6.5,159,165,324,162
+Blackpoll warbler,LAB5TB,6,8,14,7,159,161,320,160
+Blackpoll warbler,MB07,5,7,12,6,155,163,318,159
+Blackpoll warbler,NL1TB,7,8,15,7.5,157,157,314,157
+Blackpoll warbler,NL2TB,5,8,13,6.5,159,163,322,161
+Blackpoll warbler,NL3TB,6,6,12,6,161,163,324,162
+Blackpoll warbler,NL4TB,6,7,13,6.5,157,163,320,160
+Blackpoll warbler,NL5TB,5,7,12,6,159,160,319,159.5
+Blackpoll warbler,NYSM 11077,6,8,14,7,159,162,321,160.5
+Blackpoll warbler,NYSM 11078,6,7,13,6.5,157,163,320,160
+Blackpoll warbler,NYSM 11079,6,7,13,6.5,161,163,324,162
+Blackpoll warbler,NYSM 11080,7,8,15,7.5,159,161,320,160
+Blackpoll warbler,YK1705 ,6,6,12,6,157,163,320,160
+Blackpoll warbler,YK1706 ,6,6,12,6,153,161,314,157
+Blackpoll warbler,YK1707 ,6,7,13,6.5,159,159,318,159
+Blackpoll warbler,YK1708 ,6,8,14,7,155,157,312,156
+Blackpoll warbler,YK1709,6,8,14,7,159,161,320,160
+Blackpoll warbler,YK1710,7,8,15,7.5,155,163,318,159
+Blackpoll warbler,YK1711,7,7,14,7,159,159,318,159
+Blackpoll warbler,ZT 917,6,6,12,6,161,164,325,162.5
+Blackpoll warbler,ZT 919,6,8,14,7,161,161,322,161
+Blackpoll warbler,ZT 932,5,8,13,6.5,159,161,320,160
+Blackpoll warbler,ZT 951,6,7,13,6.5,161,161,322,161
+Blackpoll warbler,ZT 954,6,7,13,6.5,155,159,314,157
+Blackpoll warbler,ZT 958,7,8,15,7.5,157,161,318,159
+Blackpoll warbler,ZT 959,7,7,14,7,157,159,316,158
+Blackpoll warbler,ZT 960,5,6,11,5.5,159,161,320,160
+Blackpoll warbler,ZT 963,6,6,12,6,161,161,322,161
+Blackpoll warbler,ZT 968,7,8,15,7.5,159,159,318,159
+Blackpoll warbler,ZT 970,6,8,14,7,159,159,318,159
+Blackpoll warbler,ZT 972,6,8,14,7,157,157,314,157
+Blackpoll warbler,ZT 975,6,8,14,7,159,161,320,160
+Blackpoll warbler,ZT 996,5,7,12,6,159,161,320,160
+Blackpoll warbler,ZT 997,7,8,15,7.5,157,161,318,159
