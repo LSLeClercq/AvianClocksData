@@ -3,7 +3,7 @@
 # AvianClocksData
 Dataset of <i>Clock</i> and <i>Adcyap1</i> alleles for Birds
 
-![Version](https://img.shields.io/badge/Version-1.0.2-purple) ![Gene](https://img.shields.io/badge/Gene-Clock-green) ![Gene](https://img.shields.io/badge/Gene-Adcyap1-red) ![Species](https://img.shields.io/badge/Species-Birds-blue) 
+![Version](https://img.shields.io/badge/Version-1.0.2-purple) ![Gene](https://img.shields.io/badge/Gene-Clock-green) ![Gene](https://img.shields.io/badge/Gene-Adcyap1-red) ![Species](https://img.shields.io/badge/Species-Birds-blue) ![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.23623935.v1-purple)
 
 ### Details
 
