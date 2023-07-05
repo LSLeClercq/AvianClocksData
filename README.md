@@ -7,7 +7,7 @@ Dataset of <i>Clock</i> and <i>Adcyap1</i> alleles for Birds
 
 ### Details
 
-This repository contains an MS Excel workbook that compiles data on two clock genes, studied within the context of migration genetics, for various passerine and non-passering species. The dataset was collected and collated as part of a systematic review [1] and the original details for version 1.0.1 were also published [2]. This dataset will be maintained with version histories for future re-use.
+This repository contains an MS Excel workbook that compiles data on two clock genes, studied within the context of migration genetics, for various passerine and non-passering species. The dataset was collected and collated as part of a systematic review [1] and the original details for version 1.0.2 were also published [2]. This dataset will be maintained with version histories for future re-use.
 
 ### Included Species
 - American redstart
