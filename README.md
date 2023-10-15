@@ -12,58 +12,58 @@ This repository contains a spreadsheet workbook that compiles data on two clock 
 ### Included Species
 | Species                    | Clock | Adcyap | Code                                                                                                                                              | Sample (N) |
 | -------------------------- | ----- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| American redstart          | Yes   | Yes    | [AR](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#AR!A1)                      | 27         |
-| Barn swallow               | Yes   | No     | [BS](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#BS!A1)                      | 64         |
-| Barolo shearwater          | Yes   | No     | [BaS](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#BaS!A1)                    | 15         |
-| Bar-tailed godwit          | Yes   | No     | [BTG](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#BTG!A1)                    | 135        |
-| Blackcap                   | No    | Yes    | [BC](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#BC!A1)                      | 936        |
-| Blackpoll warbler          | Yes   | Yes    | [BW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#BW!A1)                      | 72         |
-| Blue tit                   | Yes   | No     | [BT](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#Blue_tit)                   | 950        |
-| Boyd's shearwater          | Yes   | No     | [BoS](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#BoS!A1)                    | 25         |
-| Collared flycatcher        | Yes   | Yes    | [CF](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#CF!A1)                      | 406        |
-| Collared plover            | No    | Yes    | [CP](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#CP!A1)                      | 14         |
-| Common buzzard             | No    | Yes    | [CB](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#CB!A1)                      | 974        |
-| Common chiffchaff          | Yes   | No     | [CC](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#CC!A1)                      | 55         |
-| Common nightingale         | Yes   | Yes    | [CN](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#CN!A1)                      | 150        |
-| Common whitethroat         | Yes   | Yes    | [CW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#CW!A1)                      | 31         |
-| Common yellowthroat        | Yes   | Yes    | [CY](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#CY!A1)                      | 31         |
-| Dark-eyed junco            | Yes   | Yes    | [DEJ](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#DEJ!A1)                    | 36         |
-| Eastern sub-alpine warbler | Yes   | Yes    | [ESW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#Eastern_subalpine_warbler) | 34         |
-| Eurasian blackbird         | Yes   | Yes    | [EB](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#EB!A1)                      | 792        |
-| Eurasian Golden Oriole     | Yes   | Yes    | [EGO](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#EGO!A1)                    | 30         |
-| Eurasian Hoopoe            | Yes   | Yes    | [EH](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#EH!A1)                      | 26         |
-| Eurasian reed warbler      | Yes   | Yes    | [ERW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#ERW!A1)                    | 24         |
-| Eurasian Wryneck           | Yes   | Yes    | [Wry](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#Wry!A1)                    | 31         |
-| European bee-eater         | Yes   | Yes    | [EBE](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#EBE!A1)                    | 36         |
-| European Nightjar          | Yes   | Yes    | [EN](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#EN!A1)                      | 39         |
-| European pied flycatcher   | Yes   | Yes    | [EPF](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#EPF!A1)                    | 505        |
-| European turtle dove       | Yes   | Yes    | [ETD](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#ETD!A1)                    | 29         |
-| Garden warbler             | Yes   | Yes    | [GW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#GW!A1)                      | 31         |
-| Great shearwater           | Yes   | No     | [GS](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#GS!A1)                      | 25         |
-| Great reed warbler         | Yes   | Yes    | [GRW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#GRW!A1)                    | 21         |
-| Hermit thrush              | Yes   | Yes    | [HT](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#HT!A1)                      | 30         |
-| Icterine warbler           | Yes   | Yes    | [IW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#IW!A1)                      | 29         |
-| Magnolia warbler           | Yes   | Yes    | [MW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#MW!A1)                      | 35         |
-| Manx shearwater            | Yes   | No     | [MS](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#MS!A1)                      | 23         |
-| Northern wheatear          | Yes   | Yes    | [NW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#NW!A1)                      | 30         |
-| Painted bunting            | Yes   | Yes    | [PB](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#PB!A1)                      | 60         |
-| Sedge warbler              | Yes   | Yes    | [SW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#SW!A1)                      | 30         |
-| Semipalmated plover        | No    | Yes    | [SP](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#SP!A1)                      | 13         |
-| Semipalmated sandpiper     | No    | Yes    | [SS](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#SS!A1)                      | 14         |
-| Spotted flycatcher         | Yes   | Yes    | [SF](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#SF!A1)                      | 29         |
-| Spotted sandpiper          | No    | Yes    | [SpS](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#SpS!A1)                    | 12         |
-| Swainson's thrush          | Yes   | Yes    | [ST](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#ST!A1)                      | 29         |
-| Tree pipit                 | Yes   | Yes    | [TP](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#TP!A1)                      | 153        |
-| Tree swallow               | Yes   | Yes    | [TS](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#TS!A1)                      | 921        |
-| True/Common redstarts      | Yes   | Yes    | [TR](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#TR!A1)                      | 47         |
-| Whinchat                   | Yes   | Yes    | [WCh](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#WCh!A1)                    | 208        |
-| White-throated sparrow     | Yes   | Yes    | [WTS](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#WTS!A1)                    | 32         |
-| Willow wabler              | Yes   | Yes    | [WilW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#WilW!A1)                  | 497        |
-| Wilson's warbler           | Yes   | Yes    | [WilsW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#WilsW!A1)                | 105        |
-| Wood warbler               | Yes   | Yes    | [WodW](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#WodW!A1)                  | 30         |
-| Woodchat shrike            | Yes   | Yes    | [WcS](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#WcS!A1)                    | 20         |
-| Yelkouan shearwater        | Yes   | No     | [YS](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#YS!A1)                      | 15         |
-| Yellow-legged gull         | Yes   | Yes    | [YLG](file:///C:/Users/User/Documents/7.%20Manuscripts/2.%20Scientific%20Data/Data/Avian%20Clock%20Gene%20Dataset.xlsx#YLG!A1)                    | 109        |
+| American redstart          | Yes   | Yes    | [AR](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/American%20Redstart.csv)                      | 27         |
+| Barn swallow               | Yes   | No     | [BS](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Barn%20Swallow.csv)                      | 64         |
+| Barolo shearwater          | Yes   | No     | [BaS](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Barolo%20Shearwater.csv)                    | 15         |
+| Bar-tailed godwit          | Yes   | No     | [BTG](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Bar-Tailed%20Godwit.csv)                    | 135        |
+| Blackcap                   | No    | Yes    | [BC](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Eurasian%20Blackcap.csv)                      | 936        |
+| Blackpoll warbler          | Yes   | Yes    | [BW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Blackpoll%20Warbler.csv)                      | 72         |
+| Blue tit                   | Yes   | No     | [BT](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Blue%20Tit.csv)                   | 950        |
+| Boyd's shearwater          | Yes   | No     | [BoS](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Boyds%20Shearwater.csv)                    | 25         |
+| Collared flycatcher        | Yes   | Yes    | [CF](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Collared%20Flycatcher.csv)                      | 406        |
+| Collared plover            | No    | Yes    | [CP](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Collared%20Plover.csv)                      | 14         |
+| Common buzzard             | No    | Yes    | [CB](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Common%20Buzzard.csv)                      | 974        |
+| Common chiffchaff          | Yes   | No     | [CC](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Common%20Chiffchaff.csv)                      | 55         |
+| Common nightingale         | Yes   | Yes    | [CN](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Common%20Nightingale.csv)                      | 150        |
+| Common whitethroat         | Yes   | Yes    | [CW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Common%20Whitethroat.csv)                      | 31         |
+| Common yellowthroat        | Yes   | Yes    | [CY](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Common%20Yellowthroat.csv)                      | 31         |
+| Dark-eyed junco            | Yes   | Yes    | [DEJ](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Dark-Eyed%20Junco.csv)                    | 36         |
+| Eastern sub-alpine warbler | Yes   | Yes    | [ESW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Eastern%20SubAlpine%20Warbler.csv) | 34         |
+| Eurasian blackbird         | Yes   | Yes    | [EB](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Eurasian%20Blackbird.csv)                      | 792        |
+| Eurasian Golden Oriole     | Yes   | Yes    | [EGO](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Eurasian%20Golden%20Oriole.csv)                    | 30         |
+| Eurasian Hoopoe            | Yes   | Yes    | [EH](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Eurasian%20Hoopoe.csv)                      | 26         |
+| Eurasian reed warbler      | Yes   | Yes    | [ERW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Eurasian%20Reed%20Warbler.csv)                    | 24         |
+| Eurasian Wryneck           | Yes   | Yes    | [Wry](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Eurasian%20Wryneck.csv)                    | 31         |
+| European bee-eater         | Yes   | Yes    | [EBE](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/European%20Bee-Eater.csv)                    | 36         |
+| European Nightjar          | Yes   | Yes    | [EN](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/European%20Nightjar.csv)                      | 39         |
+| European pied flycatcher   | Yes   | Yes    | [EPF](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/European%20Pied%20Flycatcher.csv)                    | 505        |
+| European turtle dove       | Yes   | Yes    | [ETD](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/European%20Turtle%20Dove.csv)                    | 29         |
+| Garden warbler             | Yes   | Yes    | [GW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Garden%20Warbler.csv)                      | 31         |
+| Great shearwater           | Yes   | No     | [GS](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Great%20Shearwater.csv)                      | 25         |
+| Great reed warbler         | Yes   | Yes    | [GRW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Great%20Reed%20Warbler.csv)                    | 21         |
+| Hermit thrush              | Yes   | Yes    | [HT](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Hermit%20Thrush.csv)                      | 30         |
+| Icterine warbler           | Yes   | Yes    | [IW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Icternine%20Warbler.csv)                      | 29         |
+| Magnolia warbler           | Yes   | Yes    | [MW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Magnolia%20Warbler.csv)                      | 35         |
+| Manx shearwater            | Yes   | No     | [MS](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Manx%20Shearwater.csv)                      | 23         |
+| Northern wheatear          | Yes   | Yes    | [NW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Northern%20Wheatear.csv)                      | 30         |
+| Painted bunting            | Yes   | Yes    | [PB](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Painted%20Bunting.csv)                      | 60         |
+| Sedge warbler              | Yes   | Yes    | [SW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Sedge%20Warbler.csv)                      | 30         |
+| Semipalmated plover        | No    | Yes    | [SP](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Semipalmated%20Plover.csv)                      | 13         |
+| Semipalmated sandpiper     | No    | Yes    | [SS](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Semipalmated%20Sandpiper.csv)                      | 14         |
+| Spotted flycatcher         | Yes   | Yes    | [SF](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Spotted%20Flycatcher.csv)                      | 29         |
+| Spotted sandpiper          | No    | Yes    | [SpS](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Spotted%20Sandpiper.csv)                    | 12         |
+| Swainson's thrush          | Yes   | Yes    | [ST](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Swainsons%20Thrush.csv)                      | 29         |
+| Tree pipit                 | Yes   | Yes    | [TP](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Tree%20Pipit.csv)                      | 153        |
+| Tree swallow               | Yes   | Yes    | [TS](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Tree%20Swallows.csv)                      | 921        |
+| True/Common redstarts      | Yes   | Yes    | [TR](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/True%20Redstarts.csv)                      | 47         |
+| Whinchat                   | Yes   | Yes    | [WCh](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Whinchat.csv)                    | 208        |
+| White-throated sparrow     | Yes   | Yes    | [WTS](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/White-Throated%20Sparrow.csv)                    | 32         |
+| Willow wabler              | Yes   | Yes    | [WilW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Willow%20Warbler.csv)                  | 497        |
+| Wilson's warbler           | Yes   | Yes    | [WilsW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Wilsons%20Warbler.csv)                | 105        |
+| Wood warbler               | Yes   | Yes    | [WodW](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Wood%20Warbler.csv)                  | 30         |
+| Woodchat shrike            | Yes   | Yes    | [WcS](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Woodchat%20Shrike.csv)                    | 20         |
+| Yelkouan shearwater        | Yes   | No     | [YS](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Yelkouan%20Shearwater.csv)                      | 15         |
+| Yellow-legged gull         | Yes   | Yes    | [YLG](https://github.com/LSLeClercq/AvianClocksData/blob/main/CSV%20files/Yellow-Legged%20Gull.csv)                    | 109        |
 
 ### Contribution
 
