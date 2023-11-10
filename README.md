@@ -71,6 +71,6 @@ Authors wishing to contribute data can submit the information to: leclercq.l.s@g
 
 ### References
 
-[1] Le Clercq, L.-S., Bazzi, G., Cecere, J.G., Gianfranceschi, L., Grobler, J.P., Kotzé, A., Rubolini, D., Liedvogel, M. and Dalton, D.L. (2023), Time trees and clock genes: a systematic review and comparative analysis of contemporary avian migration genetics. _Biological Reviews_. https://doi.org/10.1111/brv.12943
+[1] Le Clercq, L.-S., Bazzi, G., Cecere, J.G., Gianfranceschi, L., Grobler, J.P., Kotzé, A., Rubolini, D., Liedvogel, M. and Dalton, D.L. (2023), Time trees and clock genes: a systematic review and comparative analysis of contemporary avian migration genetics. _Biological Reviews_ 98(4):1051-1080. DOI: [10.1111/brv.12943](https://doi.org/10.1111/brv.12943)
 
-[2] Le Clercq, L.-S., Bazzi, G., Ferrer Obiol, J., Cecere, J.G., Gianfranceschi, L., Grobler, J.P., Kotzé, A., Riutort León, M., González-Solís, J., Rubolini, D., Liedvogel, M. and Dalton, D.L. (2023), Birds of a feather flock together—A compilation of data for two candidate genes for migration genetics . _Scientific Data_. [submitted]
+[2] Le Clercq, L.-S., Bazzi, G., Ferrer Obiol, J., Cecere, J.G., Gianfranceschi, L., Grobler, J.P., Kotzé, A., Riutort León, M., González-Solís, J., Rubolini, D., Liedvogel, M. and Dalton, D.L. (2023), Birds of a feather flock together—A compilation of data for two candidate genes for migration genetics . _Scientific Data_ 10:787. DOI: [10.1038/s41597-023-02717-8](https://doi.org/10.1038/s41597-023-02717-8)
